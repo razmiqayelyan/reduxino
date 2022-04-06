@@ -1,0 +1,107 @@
+{ "todos" : {
+    "id": "2112702",
+    "key": "WW-137",
+    "fields": {
+        "parent": {
+            "id": "1939655",
+            "key": "WW-30",
+            "fields": {
+                "summary": "Website Improvements",
+                "status": {
+                    "description": "",
+                    "name": "To Do",
+                    "id": "18021"
+                },
+                "priority": {
+                    "name": "Major",
+                    "id": "3"
+                },
+                "issuetype": {
+                    "id": "11400",
+                    "description": "Epics track collections of related bugs, stories, and tasks.",
+                    "name": "Epic"
+                }
+            }
+        },
+        
+        "resolution": null,
+        "lastViewed": null,
+        "labels": [],
+        "issuelinks": [],
+        "assignee": {
+            "accountId": "557058:c1fac568-a5d3-4bbf-a903-c9a52176411b",
+            "emailAddress": "roza.poghosyan@softconstruct.com",
+            "displayName": "Roza Poghosyan",
+            "active": true,
+            "timeZone": "Asia/Yerevan"
+        },
+        "components": [],
+        "subtasks": [],
+        "reporter": {
+            "accountId": "557058:c1fac568-a5d3-4bbf-a903-c9a52176411b",
+            "emailAddress": "roza.poghosyan@softconstruct.com",
+            "displayName": "Roza Poghosyan",
+            "active": true,
+            "timeZone": "Asia/Yerevan",
+            "accountType": "atlassian"
+        },
+        "issuetype": {
+            "id": "11399",
+            "name": "Task"
+        },
+        "project": {
+            "id": "23907",
+            "key": "WW",
+            "name": "EA-WOW",
+            "projectTypeKey": "software"
+        },
+        "resolutiondate": null,
+        "watches": {
+            "watchCount": 1,
+            "isWatching": false
+        },
+        "updated": "2022-02-24T11:10:12.145+0400",
+        "timeoriginalestimate": null,
+        "description": null,
+        "customfield_11100": {
+            "hasEpicLinkFieldDependency": false
+        },
+        "summary": "Identify requirements and sitemap for WoW website",
+        "environment": null,
+        "duedate": null,
+        "statuscategorychangedate": "2022-02-24T11:09:57.841+0400",
+        "fixVersions": [],
+        "priority": {
+            "name": "Major",
+            "id": "3"
+        },
+        "timeestimate": null,
+        "versions": [],
+        "status": {
+            "description": "",
+            "name": "In Progress",
+            "id": "18022",
+            "statusCategory": {
+                "id": 4,
+                "key": "indeterminate",
+                "colorName": "yellow",
+                "name": "In Progress"
+            }
+        },
+        "aggregatetimeestimate": null,
+        "creator": {
+            "accountId": "557058:c1fac568-a5d3-4bbf-a903-c9a52176411b",
+            "emailAddress": "roza.poghosyan@softconstruct.com",
+            "displayName": "Roza Poghosyan",
+            "active": true,
+            "timeZone": "Asia/Yerevan",
+            "accountType": "atlassian"
+        },
+        "customfield_10200": "0|i8ubmv:5i",
+        "timespent": null,
+        "aggregatetimespent": null,
+        "workratio": -1,
+        "created": "2022-02-24T11:09:39.720+0400",
+        "security": null
+    }
+}}
